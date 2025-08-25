@@ -2,42 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gsrau8.github.io/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
          <loc>https://gsrau8.github.io/aws/cdk/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
          <loc>https://gsrau8.github.io/python/datatypes/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
+    </url>
+    <url>
+         <loc>https://gsrau8.github.io/python/lists/</loc>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
          <loc>https://gsrau8.github.io/python/maps/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
          <loc>https://gsrau8.github.io/python/oop/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
          <loc>https://gsrau8.github.io/python/slices/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
          <loc>https://gsrau8.github.io/terraform/arrays/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
          <loc>https://gsrau8.github.io/terraform/datatypes/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
          <loc>https://gsrau8.github.io/terraform/maps/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
          <loc>https://gsrau8.github.io/terraform/slices/</loc>
-         <lastmod>2025-08-24</lastmod>
+         <lastmod>2025-08-25</lastmod>
     </url>
 </urlset>
